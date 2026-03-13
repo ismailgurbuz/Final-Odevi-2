@@ -23,8 +23,14 @@ Uygulamayı derlemek ve çalıştırmak için sisteminizde bir C derleyicisinin 
 2. Proje dosyalarının bulunduğu dizine gidin:
    ```bash
    cd /dosya/yolu/buraya
-  
+
+ 3.Uygulamayı derleyin:
+ ```bash
    gcc main.c -o syslog_app
 
+``` 
+
+
    ./syslog_app
+
    

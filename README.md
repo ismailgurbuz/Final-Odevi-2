@@ -28,9 +28,10 @@ Uygulamayı derlemek ve çalıştırmak için sisteminizde bir C derleyicisinin 
  ```bash
    gcc main.c -o syslog_app
 
-``` 
+```
+4.Uygulamayı çalıştırın:
+```bash
 
-
-   ./syslog_app
+  ./syslog_app
 
    
